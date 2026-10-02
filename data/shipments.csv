@@ -1,0 +1,7 @@
+shipment_id,customer,lane,status,checkpoint,hours_since_checkpoint,checkpoint_sla_hours,cargo_type,last_event
+SHP-1042,Northwind Grocers,Dallas-Chicago,in_transit,Memphis hub,14,6,reefer,temp alarm acknowledged
+SHP-1108,BrightRetail,Atlanta-Miami,in_transit,Jacksonville,2,8,dry,departed gate
+SHP-0988,Harbor Medical,Nashville-Boston,exception,Louisville,20,8,reefer,driver reported delay
+SHP-1201,PeakOutfit,Denver-Seattle,in_transit,Salt Lake,16,8,dry,weather hold
+SHP-0770,MetroParts,Chicago-Detroit,delivered,Detroit,10,6,dry,proof of delivery
+SHP-1310,FreshBasket,Houston-Dallas,exception,Houston,5,4,reefer,temp alarm acknowledged

@@ -1,0 +1,6 @@
+ticket_id,shipment_id,priority,status,summary
+TCK-19,SHP-1042,P1,open,Reefer temp alarm on Memphis dwell
+TCK-22,SHP-0988,P2,open,Receiver may reject late medical shipment
+TCK-30,SHP-1201,P2,open,Weather hold on the Salt Lake cutoff
+TCK-31,SHP-0770,P3,closed,POD image was blurry and has been replaced
+TCK-40,SHP-1310,P1,open,Reefer temp alarm before Dallas delivery

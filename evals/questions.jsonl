@@ -1,0 +1,4 @@
+{"shipment_id":"SHP-1042","question":"Why is this reefer shipment late?","expected_band":"high","expected_citation":"data/sops/cold-chain-exception.md"}
+{"shipment_id":"SHP-1108","question":"Is this shipment on track?","expected_band":"low","expected_citation":"data/shipments.csv#SHP-1108"}
+{"shipment_id":"SHP-1201","question":"What is the risk from the weather hold?","expected_band":"medium","expected_citation":"data/sops/checkpoint-delay.md"}
+{"shipment_id":"SHP-0988","question":"This medical shipment is late. What should we do?","expected_band":"high","expected_citation":"data/sops/medical-priority.md"}
