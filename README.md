@@ -119,3 +119,11 @@ The reusable templates behind these docs live in [fde-engagement-playbook](https
 | SHP-0770 | Delivered, closed ticket | 0 | low | Checkpoint delay |
 
 Delivered shipments leave the queue even if the last checkpoint looks stale. Closed tickets do not add points. Medical customers take the medical SOP even when the trailer is a reefer.
+
+## Documentation checks
+
+Project architecture, interview guides, and local source links are checked automatically on pushes and pull requests. Run the same check locally:
+
+```bash
+python3 .github/scripts/validate_project_docs.py
+```
